@@ -1,6 +1,5 @@
 provider "aws" {
   
 }
-resource "null" "name" {
-  
+resource "null" "name" { 
 }
